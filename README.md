@@ -1,7 +1,3 @@
-Hi, I’m Talha!
-
-I’m interested in autonomous vehicles and multi-robot SLAM algorithms.
-
 <!---
 <table align="center" width="100%">
     <td align="center">
